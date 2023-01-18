@@ -1,4 +1,4 @@
-## Explicação do codigo
+## Explicando o código
 
 - slice: Retorna uma cópia de uma seção de uma matriz. Para início e fim, um índice negativo pode ser usado para indicar um deslocamento do final da matriz. Por exemplo, -2 refere-se ao penúltimo elemento da matriz. O parametro inicial é 0 e o final é -1
 
