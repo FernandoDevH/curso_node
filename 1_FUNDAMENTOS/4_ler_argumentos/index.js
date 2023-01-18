@@ -8,4 +8,4 @@ const nome = args[0].split('=')[1]
 
 const idade = args[2].split('=')[1]
 
-console.log(`O nome é ${nome} e tem ${idade} anos!`)
+console.log(`O nome é ${nome} e tem ${idade} primaveras!`)
