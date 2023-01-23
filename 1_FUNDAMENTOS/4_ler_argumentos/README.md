@@ -1,6 +1,6 @@
 ## Explicando o código
 
-- slice: Retorna uma cópia de uma seção de uma matriz. Para início e fim, um índice negativo pode ser usado para indicar um deslocamento do final da matriz. Por exemplo, -2 refere-se ao penúltimo elemento da matriz. O parametro inicial é 0 e o final é -1
+- .slice: Retorna uma cópia de uma seção de uma matriz. Para início e fim, um índice negativo pode ser usado para indicar um deslocamento do final da matriz. Por exemplo, -2 refere-se ao penúltimo elemento da matriz. O parametro inicial é 0 e o final é -1
 
 - Os parametros passados foram nome=Fernando nome=Thiago, idade=28 idade=29, se coloca slice.(2) pois começa a se contar do 0 e no process.argv já existem 2 arrays,que são a execução do node e a execução da pasta em que se está trabalhando.
 
