@@ -8,4 +8,4 @@ Git e Github
 
 ## 💻 Projeto
 ---
-Projetos Criados para estudo.
+Projetos criados para estudos.
