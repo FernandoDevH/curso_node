@@ -5,3 +5,5 @@
 - 16_retornando_html: para tornar HTML com http iremos implementar mais recursos, adicionaremos o status code no retorno, com a propriedade statusCode, mudar os headers para text/html e retornar o html pelo método end do http
 
 - 17_url: o módulo url serve para decompor uma URL que passamos para o método parse. Podemos resgatar: host, path, search, query, etc. A partir destas informações conseguimos alterar a lógica do nosso código.
+
+- 18_http_url: com o http criamos nosso server e alteramos a resposta baseado na URL acessada. Com o URL processamos os parâmetros que vem pela query string, para alterar a lógica do http.
