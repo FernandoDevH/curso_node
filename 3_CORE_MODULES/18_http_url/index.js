@@ -8,7 +8,7 @@ const server = http.createServer((req,res) => {
 
 
     res.statusCode = 200;
-    res.setHeader('Contenty-Type', 'text/html');
+    res.setHeader('Content-Type', 'text/html');
     
     if(!name){
         res.end('<h1>Preencha o seu nome:</h1><form method="GET"><input type="text" name="name"/><input type="submit" value="ENVIAR"/> </form>');
